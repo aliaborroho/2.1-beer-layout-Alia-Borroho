@@ -1,0 +1,19 @@
+{
+  "name": "2.1-beer-layout",
+  "version": "0.0.0",
+  "homepage": "https://github.com/aliaborroho/2.1-beer-layout-Alia-Borroho",
+  "authors": [
+    "Alia Borroho <aliaborroho@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "~4.3.0"
+  }
+}

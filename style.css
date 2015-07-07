@@ -1,0 +1,24 @@
+.beer-wrapper {
+	position: relative;
+	margin: auto;
+	max-width: 696px;
+	min-width: 440px;
+}
+
+.float-beer {
+	float: left;
+	padding: 1rem;
+
+}
+
+.beer-name {
+	text-align: center;
+}
+
+.price {
+	text-align: center;
+}
+
+.disc {
+	text-align: center;
+}
