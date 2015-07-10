@@ -92,11 +92,33 @@ body {
   }
 }
 @media (max-width:480px){
-  .header-image, .feature-image {
-    height: auto;
-    width: 100%;
-    padding-bottom: 75%;
-    margin: .25em 0;
-  }
+    .beer-wrapper {
+      position: relative;
+      margin: auto;
+      width: 300px;
+    }
+    .bottle-icon {
+      width: 300px;
+      margin: 0;
+      padding: 1rem;
+    }
+    .beer-name {
+      text-align: center;
+      width: 300px;
+      margin: 0;
+      padding: 1rem;
+    }
+    .price {
+      text-align: center;
+      width: 300px;
+      margin: 0;
+      padding: 1rem;
+    }
+    .cart {
+      text-align: center;
+      width: 300px;
+      margin: 0;
+      padding: 1rem;
+    }
 }
-ß
+
