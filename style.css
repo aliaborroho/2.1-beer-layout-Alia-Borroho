@@ -16,7 +16,8 @@ body {
 .float-beer {
 	float: left;
 	padding: 1rem;
-}
+  margin: auto;
+  }
 
 .bottle-icon {
   width: 300px;
@@ -99,7 +100,7 @@ body {
     }
     .bottle-icon {
       width: 300px;
-      margin: 0;
+      margin: auto;
       padding: 1rem;
     }
     .beer-name {
